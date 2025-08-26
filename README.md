@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **SMIT-LMS,E-DIGIshop**
+- 🔭 I’m currently working on **cloud data engineering,projects**
 
-- 🌱 I’m currently learning **advance of web dev**
+- 🌱 I’m currently learning **cloud data engineering**
 
 - 👯 I’m looking to collaborate on **SMIT-LMS**
 
