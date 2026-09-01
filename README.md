@@ -1,33 +1,52 @@
-<h1 align="center">Hi 👋, I'm Muhammad Faizan Zia</h1>
-<h3 align="center">A passionate mern-stack developer from Pakistan</h3>
+# Hi 👋, I'm Muhammad Faizan Zia
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan-zia340&label=Profile%20views&color=0e75b6&style=flat" alt="faizan-zia340" /> </p>
+### Full-Stack Developer (MERN) × Cloud Data Engineer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizan-zia340" alt="faizan-zia340" /></a> </p>
+I build modern web applications and scalable real-time data pipelines.  
+Currently working at **Property Mesh** | CS Student at **FUUAST, Karachi**.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 🔭 I’m currently working on **cloud data engineering,projects**
+### 🚀 About Me
 
-- 🌱 I’m currently learning **cloud data engineering**
+- 💼 Full-Stack Developer & Cloud Data Engineer
+- 🔭 Building web apps with **MERN** and data pipelines with **AWS, Kafka & Snowflake**
+- 🌱 Continuously learning and improving system design & data architecture
+- 📍 Karachi, Pakistan | Open to opportunities
 
-- 👯 I’m looking to collaborate on **SMIT-LMS**
+---
 
-- 💬 Ask me about **anything**
+### 🛠️ Tech Stack
 
-- 📫 How to reach me **ziafaizan340@gmail.com**
+**Web Development (MERN)**  
+`React.js` `Node.js` `Express.js` `MongoDB` `Vite` `Tailwind CSS` `Firebase`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/faizan-zia-289541255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizan-zia-289541255" height="30" width="40" /></a>
-<a href="https://instagram.com/faizanzia22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faizanzia22" height="30" width="40" /></a>
-</p>
+**Cloud Data Engineering**  
+`AWS (S3, Lambda, Kinesis, Glue)` `Kafka` `Snowflake` `Airflow` `dbt` `Python`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizan-zia340&show_icons=true&locale=en&layout=compact" alt="faizan-zia340" /></p>
+### 📌 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizan-zia340&show_icons=true&locale=en" alt="faizan-zia340" /></p>
+**Cloud Data Engineering**
+- Real-time AIS → Snowflake Pipeline (Kinesis + Lambda + Snowflake)
+- Kafka Stock Market Data Pipeline
+- Pakistan Weather Pipeline (API → S3 → Snowflake)
+- Snowflake SCD Data Warehousing
+- AWS Glue + Redshift ETL Pipeline
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan-zia340&" alt="faizan-zia340" /></p>
+**Web Development (MERN)**
+- E-Digi Shop (Full-stack E-commerce)
+- Qarz-e-Hasna
+- Verzo
+- NexusAI
+
+---
+
+### 🔗 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-faizan-289541255/)
+- 🌐 [Portfolio](https://my-portfolio-six-gamma-83.vercel.app/)
+- ✉️ ziafaizan340@gmail.com
+
+---
