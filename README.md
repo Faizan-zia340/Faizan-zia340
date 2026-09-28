@@ -1,42 +1,45 @@
-# Hi 👋, I'm Muhammad Faizan Zia
+# Hi, I'm Muhammad Faizan 👋
 
-### Full-Stack Developer (MERN) × Cloud Data Engineer
+### Full-Stack Developer | Cloud Data Engineer
 
-I build modern web applications and scalable real-time data pipelines.  
-Currently working at **Property Mesh** | CS Student at **FUUAST, Karachi**.
+I build modern web applications and scalable data pipelines using React, Node.js, and cloud technologies like AWS, Kafka, and Snowflake.
+
+Currently working at Property Mesh and pursuing CS at FUUAST, Karachi.
 
 ---
 
 ### 🚀 About Me
 
-- 💼 Full-Stack Developer & Cloud Data Engineer
-- 🔭 Building web apps with **MERN** and data pipelines with **AWS, Kafka & Snowflake**
-- 🌱 Continuously learning and improving system design & data architecture
-- 📍 Karachi, Pakistan | Open to opportunities
+- 💼 Full-Stack Developer with a focus on MERN stack
+- ☁️ Cloud Data Engineer working with AWS, Kafka, Snowflake, Airflow, and Python
+- 🔧 Interested in building scalable systems, data pipelines, and real-world products
+- 📍 Karachi, Pakistan
+- 🌱 Constantly learning system design, ETL, and cloud architecture
+- Open to opportunities in software engineering and data engineering
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Web Development (MERN)**  
-`React.js` `Node.js` `Express.js` `MongoDB` `Vite` `Tailwind CSS` `Firebase`
+#### Web Development
+`React.js` `Node.js` `Express.js` `MongoDB` `Firebase` `Vite` `Tailwind CSS`
 
-**Cloud Data Engineering**  
-`AWS (S3, Lambda, Kinesis, Glue)` `Kafka` `Snowflake` `Airflow` `dbt` `Python`
+#### Cloud & Data Engineering
+`AWS` `S3` `Lambda` `Kinesis` `Glue` `Kafka` `Snowflake` `Airflow` `dbt` `Python`
 
 ---
 
 ### 📌 Featured Projects
 
-**Cloud Data Engineering**
-- Real-time AIS → Snowflake Pipeline (Kinesis + Lambda + Snowflake)
-- Kafka Stock Market Data Pipeline
-- Pakistan Weather Pipeline (API → S3 → Snowflake)
-- Snowflake SCD Data Warehousing
-- AWS Glue + Redshift ETL Pipeline
+#### Cloud Data Engineering
+- Real-time AIS → Snowflake pipeline using Kinesis + Lambda + Snowflake
+- Kafka stock market data pipeline
+- Pakistan weather pipeline (API → S3 → Snowflake)
+- Snowflake SCD data warehousing
+- AWS Glue + Redshift ETL pipeline
 
-**Web Development (MERN)**
-- E-Digi Shop (Full-stack E-commerce)
+#### Web Development
+- E-Digi Shop
 - Qarz-e-Hasna
 - Verzo
 - NexusAI
@@ -50,3 +53,9 @@ Currently working at **Property Mesh** | CS Student at **FUUAST, Karachi**.
 - ✉️ ziafaizan340@gmail.com
 
 ---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faizan-zia340&show_icons=true&theme=radical)
+
+</div>
